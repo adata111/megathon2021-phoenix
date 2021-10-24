@@ -1,3 +1,5 @@
+We have put the video inputs and outputs [here](https://drive.google.com/drive/folders/1L0Fxo8HGZE2T4HVAyYEtuRa9vectINgY?usp=sharing) 
+
 ## Introduction
 ### Face mask detection for video stream
 - The project involves detecting face mask for an inputted mp4 video.
